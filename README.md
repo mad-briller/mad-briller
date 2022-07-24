@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey!
 
-<!--
-**mad-briller/mad-briller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👷 Check out what I'm currently working on
 
-Here are some ideas to get you started:
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) - Development repository for Rector (1 week ago)
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) - Type-safe collections based on Laravel Collections (2 months ago)
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (3 months ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (8 months ago)
+- [code-lts/doctum](https://github.com/code-lts/doctum) - A php API documentation generator, fork of Sami (11 months ago)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Latest releases I've contributed to
+
+- [laravel/framework](https://github.com/laravel/framework) ([v9.21.0](https://github.com/laravel/framework/releases/tag/v9.21.0), 5 days ago) - The Laravel Framework.
+- [nunomaduro/larastan](https://github.com/nunomaduro/larastan) ([v2.1.12](https://github.com/nunomaduro/larastan/releases/tag/v2.1.12), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([5.2.0](https://github.com/jeromegamez/typed-collection/releases/tag/5.2.0), 2 months ago) - Type-safe collections based on Laravel Collections
+- [code-lts/doctum](https://github.com/code-lts/doctum) ([v5.5.1](https://github.com/code-lts/doctum/releases/tag/v5.5.1), 5 months ago) - A php API documentation generator, fork of Sami
