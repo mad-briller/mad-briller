@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v9.24.0](https://github.com/laravel/framework/releases/tag/v9.24.0), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v9.24.0](https://github.com/laravel/framework/releases/tag/v9.24.0), 1 day ago) - The Laravel Framework.
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) ([v2.1.12](https://github.com/nunomaduro/larastan/releases/tag/v2.1.12), 3 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([5.2.0](https://github.com/jeromegamez/typed-collection/releases/tag/5.2.0), 2 months ago) - Type-safe collections based on Laravel Collections
 - [code-lts/doctum](https://github.com/code-lts/doctum) ([v5.5.1](https://github.com/code-lts/doctum/releases/tag/v5.5.1), 5 months ago) - A php API documentation generator, fork of Sami
