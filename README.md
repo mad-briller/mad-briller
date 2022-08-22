@@ -10,6 +10,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v9.25.1](https://github.com/laravel/framework/releases/tag/v9.25.1), 5 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v9.25.1](https://github.com/laravel/framework/releases/tag/v9.25.1), 6 days ago) - The Laravel Framework.
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) ([v2.1.12](https://github.com/nunomaduro/larastan/releases/tag/v2.1.12), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [jeromegamez/typed-collection](https://github.com/jeromegamez/typed-collection) ([5.2.0](https://github.com/jeromegamez/typed-collection/releases/tag/5.2.0), 3 months ago) - Type-safe collections based on Laravel Collections
